@@ -53,3 +53,13 @@ Web development: PHP &amp; Laravel Course
     <p>
     The term "live server" typically refers to a server that is actively hosting and serving live, publicly accessible web applications or websites over the internet. A live server is in contrast to a local development server, which is used by developers for testing and development purposes on their local machines.
     </p>
+
+<br>
+
+## How to run a php file in server
+
+1. open xampp, then start apache and Mysql
+2. Then click on explorer in xampp control panel Or follow `C:\xampp\htdocs`
+3. Create new folder in htdocs folder and a new index.php file in the folder
+4. Open vscode and open that folder and write php code
+5. Then open localhost on browser and open that file to see the output
