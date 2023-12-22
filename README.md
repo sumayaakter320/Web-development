@@ -40,16 +40,16 @@ Web development: PHP &amp; Laravel Course
 
   - Local server
 
-    ```
+    <p>
     A local server, often referred to as a local development server or simply a localhost, is a server that runs on a local machine, such as a personal computer, for the purpose of developing and testing web applications.
 
     Common software tools used to set up a local server environment include:
 
         - XAMPP (cross-platform, Apache, MySQL, PHP, Perl)
 
-    ```
+    </p>
 
   - Live server
-    ```
+    <p>
     The term "live server" typically refers to a server that is actively hosting and serving live, publicly accessible web applications or websites over the internet. A live server is in contrast to a local development server, which is used by developers for testing and development purposes on their local machines.
-    ```
+    </p>
