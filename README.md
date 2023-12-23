@@ -62,4 +62,5 @@ Web development: PHP &amp; Laravel Course
 2. Then click on explorer in xampp control panel Or follow `C:\xampp\htdocs`
 3. Create new folder in htdocs folder and a new index.php file in the folder
 4. Open vscode and open that folder and write php code
-5. Then open localhost on browser and open that file to see the output
+5. Then open localhost on browser and open that file to see the output <br>
+   Or you can write http://127.0.0.1/ on browser an press enter
