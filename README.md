@@ -4,7 +4,7 @@ Web development: PHP &amp; Laravel Course
 
 <br>
 
-## PHP class 1 (Basic information)
+## Basic Information
 
 ### What is website?
 
